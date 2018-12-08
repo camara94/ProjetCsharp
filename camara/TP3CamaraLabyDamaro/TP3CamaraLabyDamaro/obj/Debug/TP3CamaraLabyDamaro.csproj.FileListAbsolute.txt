@@ -1,0 +1,24 @@
+C:\Users\CFI\Desktop\Nouveau dossier\tp_3_hamza\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\bin\Debug\TP3CamaraLabyDamaro.exe.config
+C:\Users\CFI\Desktop\Nouveau dossier\tp_3_hamza\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\bin\Debug\TP3CamaraLabyDamaro.exe
+C:\Users\CFI\Desktop\Nouveau dossier\tp_3_hamza\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\bin\Debug\TP3CamaraLabyDamaro.pdb
+C:\Users\CFI\Desktop\Nouveau dossier\tp_3_hamza\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\obj\Debug\TP3CamaraLabyDamaro.csprojResolveAssemblyReference.cache
+C:\Users\CFI\Desktop\Nouveau dossier\tp_3_hamza\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\obj\Debug\TP3CamaraLabyDamaro.exe
+C:\Users\CFI\Desktop\Nouveau dossier\tp_3_hamza\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\obj\Debug\TP3CamaraLabyDamaro.pdb
+C:\Users\camara\Desktop\e\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\bin\Debug\TP3CamaraLabyDamaro.exe.config
+C:\Users\camara\Desktop\e\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\obj\Debug\TP3CamaraLabyDamaro.exe
+C:\Users\camara\Desktop\e\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\obj\Debug\TP3CamaraLabyDamaro.pdb
+C:\Users\camara\Desktop\e\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\obj\Debug\TP3CamaraLabyDamaro.csprojResolveAssemblyReference.cache
+C:\Users\camara\Desktop\e\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\bin\Debug\TP3CamaraLabyDamaro.exe
+C:\Users\camara\Desktop\e\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\bin\Debug\TP3CamaraLabyDamaro.pdb
+G:\camara\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\bin\Debug\TP3CamaraLabyDamaro.exe.config
+G:\camara\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\bin\Debug\TP3CamaraLabyDamaro.exe
+G:\camara\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\bin\Debug\TP3CamaraLabyDamaro.pdb
+G:\camara\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\obj\Debug\TP3CamaraLabyDamaro.csprojResolveAssemblyReference.cache
+G:\camara\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\obj\Debug\TP3CamaraLabyDamaro.exe
+G:\camara\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\obj\Debug\TP3CamaraLabyDamaro.pdb
+D:\camara\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\bin\Debug\TP3CamaraLabyDamaro.exe.config
+D:\camara\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\bin\Debug\TP3CamaraLabyDamaro.exe
+D:\camara\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\bin\Debug\TP3CamaraLabyDamaro.pdb
+D:\camara\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\obj\Debug\TP3CamaraLabyDamaro.csprojResolveAssemblyReference.cache
+D:\camara\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\obj\Debug\TP3CamaraLabyDamaro.exe
+D:\camara\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\obj\Debug\TP3CamaraLabyDamaro.pdb

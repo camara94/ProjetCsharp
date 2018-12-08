@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{83F8C266-F2B3-4409-B3DD-CF105D0F317B}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CamaraTous</RootNamespace>
+    <AssemblyName>CamaraTous</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\AssociationEtHeritage\AssociationEtHeritage\AssociationEtHeritage.csproj">
+      <Project>{6850dfd8-82b2-4fc9-ab56-d65e5806337b}</Project>
+      <Name>AssociationEtHeritage</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\atelierexamentp2010\atelierexamentp2010\atelierexamentp2010.csproj">
+      <Project>{a5ac2b04-3882-4810-a49e-0755901a5beb}</Project>
+      <Name>atelierexamentp2010</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DevoirDeControlePOO\DevoirDeControlePOO\DevoirDeControlePOO.csproj">
+      <Project>{4d4f43c4-eac4-4456-9921-aa0a5f30dabe}</Project>
+      <Name>DevoirDeControlePOO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara.csproj">
+      <Project>{f52afb7e-5480-47e1-8bc4-1abfb3cf35bb}</Project>
+      <Name>DevoirSynthesPOOCamara</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\HeritageEtPolymorphisme\HeritageEtPolymorphisme\HeritageEtPolymorphisme.csproj">
+      <Project>{e9e6b203-5c59-42fe-bafe-e844dd18565b}</Project>
+      <Name>HeritageEtPolymorphisme</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ModelisationObjetDesReseaux\ModelisationObjetDesReseaux\ModelisationObjetDesReseaux.csproj">
+      <Project>{3343e6aa-3b30-48c7-adb4-61bee2381fec}</Project>
+      <Name>ModelisationObjetDesReseaux</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TP10LesInterfacesLesFigures\TP10LesInterfacesLesFigures\TP10LesInterfacesLesFigures.csproj">
+      <Project>{d02123dd-1515-4c6e-a932-0662f441a702}</Project>
+      <Name>TP10LesInterfacesLesFigures</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TP10LesInterfacesSport\TP10LesInterfacesSport\TP10LesInterfacesSport.csproj">
+      <Project>{5b2f3d11-a392-47d1-993e-460e763c4076}</Project>
+      <Name>TP10LesInterfacesSport</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TP11ExemenPOOList\TP11ExemenPOOList\TP11ExemenPOOList.csproj">
+      <Project>{85b0168f-98f2-4237-bd58-a10e29bdb396}</Project>
+      <Name>TP11ExemenPOOList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TP12IDuplicable\TP12IDuplicable\TP12IDuplicable.csproj">
+      <Project>{e9b6eeb3-fd1a-4322-b5be-370348d32542}</Project>
+      <Name>TP12IDuplicable</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro.csproj">
+      <Project>{40033d66-b22a-424b-99a3-965b38d09574}</Project>
+      <Name>TP2_camaraLabyDamaro</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro\TP3CamaraLabyDamaro.csproj">
+      <Project>{251c9c72-6ead-43c7-a37f-a96a028e420e}</Project>
+      <Name>TP3CamaraLabyDamaro</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro.csproj">
+      <Project>{38ba167a-1616-4d0d-bacd-ed4675341e10}</Project>
+      <Name>TP4CamaraLabyDamaro</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro.csproj">
+      <Project>{8fec9031-2e21-4cb3-8a36-11913d4a8b00}</Project>
+      <Name>TP5CamaraLabyDamaro</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\tp9.cs\tp9.cs\tp9.cs.csproj">
+      <Project>{48cf8371-b936-4e14-8bd4-9b7190977adf}</Project>
+      <Name>tp9.cs</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\TP9InterfaceClassAbstraiteEtHeritage\TP9InterfaceClassAbstraiteEtHeritage\TP9InterfaceClassAbstraiteEtHeritage.csproj">
+      <Project>{a0f3d052-2718-4a94-b77d-2cc82c24ab74}</Project>
+      <Name>TP9InterfaceClassAbstraiteEtHeritage</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

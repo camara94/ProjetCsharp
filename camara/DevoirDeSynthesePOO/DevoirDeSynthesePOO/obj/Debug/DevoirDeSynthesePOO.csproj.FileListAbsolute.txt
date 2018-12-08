@@ -1,0 +1,18 @@
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirDeSynthesePOO\DevoirDeSynthesePOO\bin\Debug\DevoirDeSynthesePOO.exe.config
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirDeSynthesePOO\DevoirDeSynthesePOO\obj\Debug\DevoirDeSynthesePOO.csprojResolveAssemblyReference.cache
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirDeSynthesePOO\DevoirDeSynthesePOO\bin\Debug\DevoirDeSynthesePOO.exe
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirDeSynthesePOO\DevoirDeSynthesePOO\bin\Debug\DevoirDeSynthesePOO.pdb
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirDeSynthesePOO\DevoirDeSynthesePOO\obj\Debug\DevoirDeSynthesePOO.exe
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirDeSynthesePOO\DevoirDeSynthesePOO\obj\Debug\DevoirDeSynthesePOO.pdb
+G:\camara\DevoirDeSynthesePOO\DevoirDeSynthesePOO\obj\Debug\DevoirDeSynthesePOO.csprojResolveAssemblyReference.cache
+G:\camara\DevoirDeSynthesePOO\DevoirDeSynthesePOO\obj\Debug\DevoirDeSynthesePOO.exe
+G:\camara\DevoirDeSynthesePOO\DevoirDeSynthesePOO\obj\Debug\DevoirDeSynthesePOO.pdb
+G:\camara\DevoirDeSynthesePOO\DevoirDeSynthesePOO\bin\Debug\DevoirDeSynthesePOO.exe.config
+G:\camara\DevoirDeSynthesePOO\DevoirDeSynthesePOO\bin\Debug\DevoirDeSynthesePOO.exe
+G:\camara\DevoirDeSynthesePOO\DevoirDeSynthesePOO\bin\Debug\DevoirDeSynthesePOO.pdb
+D:\camara\DevoirDeSynthesePOO\DevoirDeSynthesePOO\bin\Debug\DevoirDeSynthesePOO.exe.config
+D:\camara\DevoirDeSynthesePOO\DevoirDeSynthesePOO\bin\Debug\DevoirDeSynthesePOO.exe
+D:\camara\DevoirDeSynthesePOO\DevoirDeSynthesePOO\bin\Debug\DevoirDeSynthesePOO.pdb
+D:\camara\DevoirDeSynthesePOO\DevoirDeSynthesePOO\obj\Debug\DevoirDeSynthesePOO.csprojResolveAssemblyReference.cache
+D:\camara\DevoirDeSynthesePOO\DevoirDeSynthesePOO\obj\Debug\DevoirDeSynthesePOO.exe
+D:\camara\DevoirDeSynthesePOO\DevoirDeSynthesePOO\obj\Debug\DevoirDeSynthesePOO.pdb

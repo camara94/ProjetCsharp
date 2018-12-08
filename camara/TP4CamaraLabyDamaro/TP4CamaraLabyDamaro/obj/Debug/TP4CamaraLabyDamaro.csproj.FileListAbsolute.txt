@@ -1,0 +1,18 @@
+C:\Users\CFI\Documents\Visual Studio 2013\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\bin\Debug\TP4CamaraLabyDamaro.exe.config
+C:\Users\CFI\Documents\Visual Studio 2013\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\bin\Debug\TP4CamaraLabyDamaro.exe
+C:\Users\CFI\Documents\Visual Studio 2013\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\bin\Debug\TP4CamaraLabyDamaro.pdb
+C:\Users\CFI\Documents\Visual Studio 2013\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\obj\Debug\TP4CamaraLabyDamaro.csprojResolveAssemblyReference.cache
+C:\Users\CFI\Documents\Visual Studio 2013\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\obj\Debug\TP4CamaraLabyDamaro.exe
+C:\Users\CFI\Documents\Visual Studio 2013\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\obj\Debug\TP4CamaraLabyDamaro.pdb
+G:\camara\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\obj\Debug\TP4CamaraLabyDamaro.csprojResolveAssemblyReference.cache
+G:\camara\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\obj\Debug\TP4CamaraLabyDamaro.exe
+G:\camara\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\obj\Debug\TP4CamaraLabyDamaro.pdb
+G:\camara\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\bin\Debug\TP4CamaraLabyDamaro.exe.config
+G:\camara\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\bin\Debug\TP4CamaraLabyDamaro.exe
+G:\camara\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\bin\Debug\TP4CamaraLabyDamaro.pdb
+D:\camara\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\bin\Debug\TP4CamaraLabyDamaro.exe.config
+D:\camara\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\bin\Debug\TP4CamaraLabyDamaro.exe
+D:\camara\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\bin\Debug\TP4CamaraLabyDamaro.pdb
+D:\camara\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\obj\Debug\TP4CamaraLabyDamaro.csprojResolveAssemblyReference.cache
+D:\camara\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\obj\Debug\TP4CamaraLabyDamaro.exe
+D:\camara\TP4CamaraLabyDamaro\TP4CamaraLabyDamaro\obj\Debug\TP4CamaraLabyDamaro.pdb

@@ -1,0 +1,24 @@
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirDeControlePOO\DevoirDeControlePOO\bin\Debug\DevoirDeControlePOO.exe.config
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirDeControlePOO\DevoirDeControlePOO\obj\Debug\DevoirDeControlePOO.csprojResolveAssemblyReference.cache
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirDeControlePOO\DevoirDeControlePOO\bin\Debug\DevoirDeControlePOO.exe
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirDeControlePOO\DevoirDeControlePOO\bin\Debug\DevoirDeControlePOO.pdb
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirDeControlePOO\DevoirDeControlePOO\obj\Debug\DevoirDeControlePOO.exe
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirDeControlePOO\DevoirDeControlePOO\obj\Debug\DevoirDeControlePOO.pdb
+C:\Users\CFI\Desktop\camara\DevoirDeControlePOO\DevoirDeControlePOO\bin\Debug\DevoirDeControlePOO.exe.config
+C:\Users\CFI\Desktop\camara\DevoirDeControlePOO\DevoirDeControlePOO\obj\Debug\DevoirDeControlePOO.exe
+C:\Users\CFI\Desktop\camara\DevoirDeControlePOO\DevoirDeControlePOO\obj\Debug\DevoirDeControlePOO.pdb
+C:\Users\CFI\Desktop\camara\DevoirDeControlePOO\DevoirDeControlePOO\bin\Debug\DevoirDeControlePOO.exe
+C:\Users\CFI\Desktop\camara\DevoirDeControlePOO\DevoirDeControlePOO\bin\Debug\DevoirDeControlePOO.pdb
+C:\Users\CFI\Desktop\camara\DevoirDeControlePOO\DevoirDeControlePOO\obj\Debug\DevoirDeControlePOO.csprojResolveAssemblyReference.cache
+G:\camara\DevoirDeControlePOO\DevoirDeControlePOO\bin\Debug\DevoirDeControlePOO.exe.config
+G:\camara\DevoirDeControlePOO\DevoirDeControlePOO\bin\Debug\DevoirDeControlePOO.exe
+G:\camara\DevoirDeControlePOO\DevoirDeControlePOO\bin\Debug\DevoirDeControlePOO.pdb
+G:\camara\DevoirDeControlePOO\DevoirDeControlePOO\obj\Debug\DevoirDeControlePOO.csprojResolveAssemblyReference.cache
+G:\camara\DevoirDeControlePOO\DevoirDeControlePOO\obj\Debug\DevoirDeControlePOO.exe
+G:\camara\DevoirDeControlePOO\DevoirDeControlePOO\obj\Debug\DevoirDeControlePOO.pdb
+D:\camara\DevoirDeControlePOO\DevoirDeControlePOO\bin\Debug\DevoirDeControlePOO.exe.config
+D:\camara\DevoirDeControlePOO\DevoirDeControlePOO\bin\Debug\DevoirDeControlePOO.exe
+D:\camara\DevoirDeControlePOO\DevoirDeControlePOO\bin\Debug\DevoirDeControlePOO.pdb
+D:\camara\DevoirDeControlePOO\DevoirDeControlePOO\obj\Debug\DevoirDeControlePOO.csprojResolveAssemblyReference.cache
+D:\camara\DevoirDeControlePOO\DevoirDeControlePOO\obj\Debug\DevoirDeControlePOO.exe
+D:\camara\DevoirDeControlePOO\DevoirDeControlePOO\obj\Debug\DevoirDeControlePOO.pdb

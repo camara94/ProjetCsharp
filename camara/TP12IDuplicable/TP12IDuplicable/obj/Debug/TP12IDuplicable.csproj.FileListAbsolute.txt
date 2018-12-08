@@ -1,0 +1,20 @@
+C:\Users\CFI\Documents\Visual Studio 2013\TP12IDuplicable\TP12IDuplicable\bin\Debug\TP12IDuplicable.exe.config
+C:\Users\CFI\Documents\Visual Studio 2013\TP12IDuplicable\TP12IDuplicable\obj\Debug\TP12IDuplicable.csprojResolveAssemblyReference.cache
+G:\TP12IDuplicable\TP12IDuplicable\bin\Debug\TP12IDuplicable.exe.config
+G:\TP12IDuplicable\TP12IDuplicable\obj\Debug\TP12IDuplicable.csprojResolveAssemblyReference.cache
+G:\TP12IDuplicable\TP12IDuplicable\bin\Debug\TP12IDuplicable.exe
+G:\TP12IDuplicable\TP12IDuplicable\bin\Debug\TP12IDuplicable.pdb
+G:\TP12IDuplicable\TP12IDuplicable\obj\Debug\TP12IDuplicable.exe
+G:\TP12IDuplicable\TP12IDuplicable\obj\Debug\TP12IDuplicable.pdb
+D:\TP12IDuplicable\TP12IDuplicable\bin\Debug\TP12IDuplicable.exe.config
+D:\TP12IDuplicable\TP12IDuplicable\obj\Debug\TP12IDuplicable.exe
+D:\TP12IDuplicable\TP12IDuplicable\obj\Debug\TP12IDuplicable.pdb
+D:\TP12IDuplicable\TP12IDuplicable\bin\Debug\TP12IDuplicable.exe
+D:\TP12IDuplicable\TP12IDuplicable\bin\Debug\TP12IDuplicable.pdb
+D:\TP12IDuplicable\TP12IDuplicable\obj\Debug\TP12IDuplicable.csprojResolveAssemblyReference.cache
+G:\camara\TP12IDuplicable\TP12IDuplicable\bin\Debug\TP12IDuplicable.exe.config
+G:\camara\TP12IDuplicable\TP12IDuplicable\bin\Debug\TP12IDuplicable.exe
+G:\camara\TP12IDuplicable\TP12IDuplicable\bin\Debug\TP12IDuplicable.pdb
+G:\camara\TP12IDuplicable\TP12IDuplicable\obj\Debug\TP12IDuplicable.csprojResolveAssemblyReference.cache
+G:\camara\TP12IDuplicable\TP12IDuplicable\obj\Debug\TP12IDuplicable.exe
+G:\camara\TP12IDuplicable\TP12IDuplicable\obj\Debug\TP12IDuplicable.pdb

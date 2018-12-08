@@ -1,0 +1,18 @@
+C:\Users\CFI\Documents\Visual Studio 2013\atelierexamentp2010\atelierexamentp2010\bin\Debug\atelierexamentp2010.exe.config
+C:\Users\CFI\Documents\Visual Studio 2013\atelierexamentp2010\atelierexamentp2010\obj\Debug\atelierexamentp2010.csprojResolveAssemblyReference.cache
+C:\Users\CFI\Documents\Visual Studio 2013\atelierexamentp2010\atelierexamentp2010\bin\Debug\atelierexamentp2010.exe
+C:\Users\CFI\Documents\Visual Studio 2013\atelierexamentp2010\atelierexamentp2010\bin\Debug\atelierexamentp2010.pdb
+C:\Users\CFI\Documents\Visual Studio 2013\atelierexamentp2010\atelierexamentp2010\obj\Debug\atelierexamentp2010.exe
+C:\Users\CFI\Documents\Visual Studio 2013\atelierexamentp2010\atelierexamentp2010\obj\Debug\atelierexamentp2010.pdb
+G:\camara\atelierexamentp2010\atelierexamentp2010\bin\Debug\atelierexamentp2010.exe.config
+G:\camara\atelierexamentp2010\atelierexamentp2010\bin\Debug\atelierexamentp2010.exe
+G:\camara\atelierexamentp2010\atelierexamentp2010\bin\Debug\atelierexamentp2010.pdb
+G:\camara\atelierexamentp2010\atelierexamentp2010\obj\Debug\atelierexamentp2010.csprojResolveAssemblyReference.cache
+G:\camara\atelierexamentp2010\atelierexamentp2010\obj\Debug\atelierexamentp2010.exe
+G:\camara\atelierexamentp2010\atelierexamentp2010\obj\Debug\atelierexamentp2010.pdb
+D:\camara\atelierexamentp2010\atelierexamentp2010\bin\Debug\atelierexamentp2010.exe.config
+D:\camara\atelierexamentp2010\atelierexamentp2010\bin\Debug\atelierexamentp2010.exe
+D:\camara\atelierexamentp2010\atelierexamentp2010\bin\Debug\atelierexamentp2010.pdb
+D:\camara\atelierexamentp2010\atelierexamentp2010\obj\Debug\atelierexamentp2010.csprojResolveAssemblyReference.cache
+D:\camara\atelierexamentp2010\atelierexamentp2010\obj\Debug\atelierexamentp2010.exe
+D:\camara\atelierexamentp2010\atelierexamentp2010\obj\Debug\atelierexamentp2010.pdb

@@ -1,0 +1,18 @@
+C:\Users\CFI\Documents\Visual Studio 2013\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\bin\Debug\TP5CamaraLabyDamaro.exe.config
+C:\Users\CFI\Documents\Visual Studio 2013\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\obj\Debug\TP5CamaraLabyDamaro.csprojResolveAssemblyReference.cache
+C:\Users\CFI\Documents\Visual Studio 2013\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\bin\Debug\TP5CamaraLabyDamaro.exe
+C:\Users\CFI\Documents\Visual Studio 2013\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\bin\Debug\TP5CamaraLabyDamaro.pdb
+C:\Users\CFI\Documents\Visual Studio 2013\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\obj\Debug\TP5CamaraLabyDamaro.exe
+C:\Users\CFI\Documents\Visual Studio 2013\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\obj\Debug\TP5CamaraLabyDamaro.pdb
+G:\camara\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\bin\Debug\TP5CamaraLabyDamaro.exe.config
+G:\camara\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\bin\Debug\TP5CamaraLabyDamaro.exe
+G:\camara\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\bin\Debug\TP5CamaraLabyDamaro.pdb
+G:\camara\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\obj\Debug\TP5CamaraLabyDamaro.csprojResolveAssemblyReference.cache
+G:\camara\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\obj\Debug\TP5CamaraLabyDamaro.exe
+G:\camara\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\obj\Debug\TP5CamaraLabyDamaro.pdb
+D:\camara\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\bin\Debug\TP5CamaraLabyDamaro.exe.config
+D:\camara\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\bin\Debug\TP5CamaraLabyDamaro.exe
+D:\camara\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\bin\Debug\TP5CamaraLabyDamaro.pdb
+D:\camara\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\obj\Debug\TP5CamaraLabyDamaro.csprojResolveAssemblyReference.cache
+D:\camara\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\obj\Debug\TP5CamaraLabyDamaro.exe
+D:\camara\TP5CamaraLabyDamaro\TP5CamaraLabyDamaro\obj\Debug\TP5CamaraLabyDamaro.pdb

@@ -1,0 +1,15 @@
+C:\Users\CFI\Documents\Visual Studio 2013\TP11ExemenPOOList\TP11ExemenPOOList\bin\Debug\TP11ExemenPOOList.exe.config
+C:\Users\CFI\Documents\Visual Studio 2013\TP11ExemenPOOList\TP11ExemenPOOList\bin\Debug\TP11ExemenPOOList.exe
+C:\Users\CFI\Documents\Visual Studio 2013\TP11ExemenPOOList\TP11ExemenPOOList\bin\Debug\TP11ExemenPOOList.pdb
+C:\Users\CFI\Documents\Visual Studio 2013\TP11ExemenPOOList\TP11ExemenPOOList\obj\Debug\TP11ExemenPOOList.exe
+C:\Users\CFI\Documents\Visual Studio 2013\TP11ExemenPOOList\TP11ExemenPOOList\obj\Debug\TP11ExemenPOOList.pdb
+G:\camara\TP11ExemenPOOList\TP11ExemenPOOList\bin\Debug\TP11ExemenPOOList.exe.config
+G:\camara\TP11ExemenPOOList\TP11ExemenPOOList\bin\Debug\TP11ExemenPOOList.exe
+G:\camara\TP11ExemenPOOList\TP11ExemenPOOList\bin\Debug\TP11ExemenPOOList.pdb
+G:\camara\TP11ExemenPOOList\TP11ExemenPOOList\obj\Debug\TP11ExemenPOOList.exe
+G:\camara\TP11ExemenPOOList\TP11ExemenPOOList\obj\Debug\TP11ExemenPOOList.pdb
+D:\camara\TP11ExemenPOOList\TP11ExemenPOOList\bin\Debug\TP11ExemenPOOList.exe.config
+D:\camara\TP11ExemenPOOList\TP11ExemenPOOList\bin\Debug\TP11ExemenPOOList.exe
+D:\camara\TP11ExemenPOOList\TP11ExemenPOOList\bin\Debug\TP11ExemenPOOList.pdb
+D:\camara\TP11ExemenPOOList\TP11ExemenPOOList\obj\Debug\TP11ExemenPOOList.exe
+D:\camara\TP11ExemenPOOList\TP11ExemenPOOList\obj\Debug\TP11ExemenPOOList.pdb

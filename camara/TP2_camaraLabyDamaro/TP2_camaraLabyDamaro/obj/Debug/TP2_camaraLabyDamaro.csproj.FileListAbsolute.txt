@@ -1,0 +1,24 @@
+C:\Users\CFI\Documents\Visual Studio 2013\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\bin\Debug\TP2_camaraLabyDamaro.exe.config
+C:\Users\CFI\Documents\Visual Studio 2013\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\obj\Debug\TP2_camaraLabyDamaro.csprojResolveAssemblyReference.cache
+C:\Users\CFI\Documents\Visual Studio 2013\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\bin\Debug\TP2_camaraLabyDamaro.exe
+C:\Users\CFI\Documents\Visual Studio 2013\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\bin\Debug\TP2_camaraLabyDamaro.pdb
+C:\Users\CFI\Documents\Visual Studio 2013\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\obj\Debug\TP2_camaraLabyDamaro.exe
+C:\Users\CFI\Documents\Visual Studio 2013\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\obj\Debug\TP2_camaraLabyDamaro.pdb
+C:\Users\camara\Desktop\usb\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\bin\Debug\TP2_camaraLabyDamaro.exe.config
+C:\Users\camara\Desktop\usb\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\obj\Debug\TP2_camaraLabyDamaro.exe
+C:\Users\camara\Desktop\usb\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\obj\Debug\TP2_camaraLabyDamaro.pdb
+C:\Users\camara\Desktop\usb\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\bin\Debug\TP2_camaraLabyDamaro.exe
+C:\Users\camara\Desktop\usb\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\bin\Debug\TP2_camaraLabyDamaro.pdb
+C:\Users\camara\Desktop\usb\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\obj\Debug\TP2_camaraLabyDamaro.csprojResolveAssemblyReference.cache
+G:\camara\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\bin\Debug\TP2_camaraLabyDamaro.exe.config
+G:\camara\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\bin\Debug\TP2_camaraLabyDamaro.exe
+G:\camara\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\bin\Debug\TP2_camaraLabyDamaro.pdb
+G:\camara\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\obj\Debug\TP2_camaraLabyDamaro.csprojResolveAssemblyReference.cache
+G:\camara\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\obj\Debug\TP2_camaraLabyDamaro.exe
+G:\camara\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\obj\Debug\TP2_camaraLabyDamaro.pdb
+D:\camara\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\bin\Debug\TP2_camaraLabyDamaro.exe.config
+D:\camara\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\bin\Debug\TP2_camaraLabyDamaro.exe
+D:\camara\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\bin\Debug\TP2_camaraLabyDamaro.pdb
+D:\camara\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\obj\Debug\TP2_camaraLabyDamaro.csprojResolveAssemblyReference.cache
+D:\camara\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\obj\Debug\TP2_camaraLabyDamaro.exe
+D:\camara\TP2_camaraLabyDamaro\TP2_camaraLabyDamaro\obj\Debug\TP2_camaraLabyDamaro.pdb

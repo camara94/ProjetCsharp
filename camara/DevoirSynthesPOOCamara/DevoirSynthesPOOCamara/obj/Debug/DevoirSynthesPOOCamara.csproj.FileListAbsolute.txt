@@ -1,0 +1,18 @@
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\bin\Debug\DevoirSynthesPOOCamara.exe.config
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\bin\Debug\DevoirSynthesPOOCamara.exe
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\bin\Debug\DevoirSynthesPOOCamara.pdb
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\obj\Debug\DevoirSynthesPOOCamara.csprojResolveAssemblyReference.cache
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\obj\Debug\DevoirSynthesPOOCamara.exe
+C:\Users\CFI\Documents\Visual Studio 2013\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\obj\Debug\DevoirSynthesPOOCamara.pdb
+G:\camara\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\obj\Debug\DevoirSynthesPOOCamara.csprojResolveAssemblyReference.cache
+G:\camara\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\obj\Debug\DevoirSynthesPOOCamara.exe
+G:\camara\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\obj\Debug\DevoirSynthesPOOCamara.pdb
+G:\camara\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\bin\Debug\DevoirSynthesPOOCamara.exe.config
+G:\camara\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\bin\Debug\DevoirSynthesPOOCamara.exe
+G:\camara\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\bin\Debug\DevoirSynthesPOOCamara.pdb
+D:\camara\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\bin\Debug\DevoirSynthesPOOCamara.exe.config
+D:\camara\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\bin\Debug\DevoirSynthesPOOCamara.exe
+D:\camara\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\bin\Debug\DevoirSynthesPOOCamara.pdb
+D:\camara\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\obj\Debug\DevoirSynthesPOOCamara.csprojResolveAssemblyReference.cache
+D:\camara\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\obj\Debug\DevoirSynthesPOOCamara.exe
+D:\camara\DevoirSynthesPOOCamara\DevoirSynthesPOOCamara\obj\Debug\DevoirSynthesPOOCamara.pdb

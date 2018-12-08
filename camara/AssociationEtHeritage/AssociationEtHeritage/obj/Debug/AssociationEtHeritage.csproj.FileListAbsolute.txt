@@ -1,0 +1,18 @@
+C:\Users\CFI\Documents\Visual Studio 2013\AssociationEtHeritage\AssociationEtHeritage\bin\Debug\AssociationEtHeritage.exe.config
+C:\Users\CFI\Documents\Visual Studio 2013\AssociationEtHeritage\AssociationEtHeritage\bin\Debug\AssociationEtHeritage.exe
+C:\Users\CFI\Documents\Visual Studio 2013\AssociationEtHeritage\AssociationEtHeritage\bin\Debug\AssociationEtHeritage.pdb
+C:\Users\CFI\Documents\Visual Studio 2013\AssociationEtHeritage\AssociationEtHeritage\obj\Debug\AssociationEtHeritage.csprojResolveAssemblyReference.cache
+C:\Users\CFI\Documents\Visual Studio 2013\AssociationEtHeritage\AssociationEtHeritage\obj\Debug\AssociationEtHeritage.exe
+C:\Users\CFI\Documents\Visual Studio 2013\AssociationEtHeritage\AssociationEtHeritage\obj\Debug\AssociationEtHeritage.pdb
+D:\camara\AssociationEtHeritage\AssociationEtHeritage\bin\Debug\AssociationEtHeritage.exe.config
+D:\camara\AssociationEtHeritage\AssociationEtHeritage\bin\Debug\AssociationEtHeritage.exe
+D:\camara\AssociationEtHeritage\AssociationEtHeritage\bin\Debug\AssociationEtHeritage.pdb
+D:\camara\AssociationEtHeritage\AssociationEtHeritage\obj\Debug\AssociationEtHeritage.csprojResolveAssemblyReference.cache
+D:\camara\AssociationEtHeritage\AssociationEtHeritage\obj\Debug\AssociationEtHeritage.exe
+D:\camara\AssociationEtHeritage\AssociationEtHeritage\obj\Debug\AssociationEtHeritage.pdb
+G:\camara\AssociationEtHeritage\AssociationEtHeritage\bin\Debug\AssociationEtHeritage.exe.config
+G:\camara\AssociationEtHeritage\AssociationEtHeritage\bin\Debug\AssociationEtHeritage.exe
+G:\camara\AssociationEtHeritage\AssociationEtHeritage\bin\Debug\AssociationEtHeritage.pdb
+G:\camara\AssociationEtHeritage\AssociationEtHeritage\obj\Debug\AssociationEtHeritage.csprojResolveAssemblyReference.cache
+G:\camara\AssociationEtHeritage\AssociationEtHeritage\obj\Debug\AssociationEtHeritage.exe
+G:\camara\AssociationEtHeritage\AssociationEtHeritage\obj\Debug\AssociationEtHeritage.pdb

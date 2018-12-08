@@ -1,0 +1,18 @@
+C:\Users\CFI\Documents\Visual Studio 2013\tp9.cs\tp9.cs\bin\Debug\tp9.cs.exe.config
+C:\Users\CFI\Documents\Visual Studio 2013\tp9.cs\tp9.cs\obj\Debug\tp9.cs.csprojResolveAssemblyReference.cache
+C:\Users\CFI\Documents\Visual Studio 2013\tp9.cs\tp9.cs\bin\Debug\tp9.cs.exe
+C:\Users\CFI\Documents\Visual Studio 2013\tp9.cs\tp9.cs\bin\Debug\tp9.cs.pdb
+C:\Users\CFI\Documents\Visual Studio 2013\tp9.cs\tp9.cs\obj\Debug\tp9.cs.exe
+C:\Users\CFI\Documents\Visual Studio 2013\tp9.cs\tp9.cs\obj\Debug\tp9.cs.pdb
+G:\camara\tp9.cs\tp9.cs\bin\Debug\tp9.cs.exe.config
+G:\camara\tp9.cs\tp9.cs\bin\Debug\tp9.cs.exe
+G:\camara\tp9.cs\tp9.cs\bin\Debug\tp9.cs.pdb
+G:\camara\tp9.cs\tp9.cs\obj\Debug\tp9.cs.csprojResolveAssemblyReference.cache
+G:\camara\tp9.cs\tp9.cs\obj\Debug\tp9.cs.exe
+G:\camara\tp9.cs\tp9.cs\obj\Debug\tp9.cs.pdb
+D:\camara\tp9.cs\tp9.cs\bin\Debug\tp9.cs.exe.config
+D:\camara\tp9.cs\tp9.cs\bin\Debug\tp9.cs.exe
+D:\camara\tp9.cs\tp9.cs\bin\Debug\tp9.cs.pdb
+D:\camara\tp9.cs\tp9.cs\obj\Debug\tp9.cs.csprojResolveAssemblyReference.cache
+D:\camara\tp9.cs\tp9.cs\obj\Debug\tp9.cs.exe
+D:\camara\tp9.cs\tp9.cs\obj\Debug\tp9.cs.pdb
